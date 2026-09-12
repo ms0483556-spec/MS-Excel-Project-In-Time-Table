@@ -1,0 +1,19 @@
+# 30-Day Habit Tracker Dashboard
+
+A professional 30-day habit tracker dashboard created in Microsoft Excel.
+
+## Features
+- 30-day habit tracking
+- Automatic overall progress
+- Top habit calculation
+- Total completion
+- Daily completion chart
+- Habit progress chart
+- 30-day habit overview
+- Automatic dashboard updates
+
+## Tools Used
+- Microsoft Excel
+
+## Project Preview
+![Dashboard](dashboard-preview.png)
